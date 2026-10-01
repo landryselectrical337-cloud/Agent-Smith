@@ -1,0 +1,2 @@
+# Agent-Smith
+skill new
